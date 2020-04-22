@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
@@ -27,3 +28,34 @@ Global
 		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHeart", "Assembly-CSharp.csproj", "{5683332B-1295-91FB-13EE-FFA3E07366F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHeart", "Assembly-CSharp-Editor.csproj", "{2C2D9223-BAD2-72FA-4EFD-335B51FBE82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5683332B-1295-91FB-13EE-FFA3E07366F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5683332B-1295-91FB-13EE-FFA3E07366F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5683332B-1295-91FB-13EE-FFA3E07366F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5683332B-1295-91FB-13EE-FFA3E07366F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2D9223-BAD2-72FA-4EFD-335B51FBE82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2D9223-BAD2-72FA-4EFD-335B51FBE82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2D9223-BAD2-72FA-4EFD-335B51FBE82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2D9223-BAD2-72FA-4EFD-335B51FBE82E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
+>>>>>>> 593c910c50f0af15710afc31c1448ef959af359b
